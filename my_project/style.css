@@ -129,18 +129,19 @@ opacity: 0.3;
     padding-left: 100px;
 }
 .about_img{
+    
     display: flex;
     justify-content: space-between;
     margin: 30px;
     padding: 100px;
+    margin-top: -10%
 }
 
-footer{
-    clear: both;
+.green_sheet{
+margin-top: 700px;
 }
-.footer_container{
-    background-image: url(./assets/footer1.png);
-    background-size: 100%;
-    height: 35vh;
+.green_sheet2{
+    position: relative;
+left:400px;
+margin-top: -40%
 }
-
