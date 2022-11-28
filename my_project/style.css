@@ -28,6 +28,7 @@ main{
     background-image: url(./assets/Group\ 501.png);
     background-repeat: no-repeat;
     background-size: cover;
+    height:100vh;
 }
 
 .vosst1{
